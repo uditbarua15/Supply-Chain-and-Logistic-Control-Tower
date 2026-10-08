@@ -18,7 +18,7 @@ This dashboard serves as a central reporting tool for monitoring commercial perf
 ![Executive Overview](Screenshots/page1_executive_overview.png)
 
 ### 4. Page 2 / Fulfillment & Logistics
-![Fulfillment & Logistics](Screenshots/page2_fulfillment&logistics.png)
+![Fulfillment & Logistics](Screenshots/page2_Fulfillment&logistics.png)
 
 ### 5. Page 3 / Product & Customer Analytics
 ![Product & Customer Analytics](Screenshots/page3_product&customer_analytics.png)
