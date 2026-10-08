@@ -9,19 +9,19 @@ This dashboard serves as a central reporting tool for monitoring commercial perf
 ## Dashboard Screenshots
 
 ### 1. Model View
-![Model View](model_view.png)
+![Model View](Screenshots/model_view.png)
 
 ### 2. Landing Page
-![Landing Page](landing_page.png)
+![Landing Page](Screenshots/landing_page.png)
 
 ### 3. Page 1 / Executive Overview
-![Executive Overview](page1_executive_overview.png)
+![Executive Overview](Screenshots/page1_executive_overview.png)
 
 ### 4. Page 2 / Fulfillment & Logistics
-![Fulfillment & Logistics](page2_fulfillment&logistics.png)
+![Fulfillment & Logistics](Screenshots/page2_fulfillment&logistics.png)
 
 ### 5. Page 3 / Product & Customer Analytics
-![Product & Customer Analytics](page3_product&customer_analytics.png)
+![Product & Customer Analytics](Screenshots/page3_product&customer_analytics.png)
 
 
 
