@@ -1,4 +1,4 @@
-# Supply Chain Control Tower: Revenue & Shipping Analytics
+# Supply Chain & Logistics Control Tower
 
 An interactive **Power BI** dashboard designed to track organizational order performance, fulfillment pipelines, and regional shipping dynamics across global customer segments.
 
